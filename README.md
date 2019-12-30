@@ -15,10 +15,11 @@ This repository is licensed under the GPLv3 license, see COPYING.
     
     操作方法1
     $ echo 0 > /dev/myled0
-    $ sudo rmmod myled.ko
   
     操作方法2
     $ echo 1 > /dev/myled0
+
+    操作終了後
     $ sudo rmmod myled.ko
 
 ## 動画URL

@@ -6,7 +6,7 @@ This repository is licensed under the GPLv3 license, see COPYING.
 ## 概要
 本デバイスドライバはGPLのもと、アップロードされている。
 <br>以下の操作方法1で、LEDを点滅させる。(点滅回数は10回)
-<br>以下の操作方法2で、LEDを点灯させる。
+<br>以下の操作方法2で、LEDを一定時間点灯させる。
 
 ## 操作方法
     $ make  
